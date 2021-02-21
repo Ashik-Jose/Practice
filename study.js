@@ -1,4 +1,4 @@
-/*console.log("5");       //JS Output
+console.log("5");       //JS Output
 
 
 //JS let
@@ -50,7 +50,7 @@ function Trial(a,b,c)
 }
 var txt = "The product of three modified numbers is " + Trial(6,7,8) + ".";
 console.log(txt);
-*/
+
 
 
 //JS Objects
